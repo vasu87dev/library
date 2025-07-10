@@ -1,1 +1,1 @@
-a Java-based command-line interface application for managing book issues and returns
+A Java-based console application that allows users to manage a simple library system. The program supports adding, displaying, searching, and removing books using Object-Oriented Programming principles. It uses Java Collections (ArrayList) to store book data in memory.
